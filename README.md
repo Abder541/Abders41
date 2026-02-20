@@ -207,7 +207,7 @@ Architecture cloud sécurisée avec **Microsoft Azure**.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abder541)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderahmane-chaouche)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderahmane-blue?logo=linkedin)](https://linkedin.com/in/abderahmanechaouche)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://abder541.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderahmane.chaouche.0@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+41797353350)
@@ -252,7 +252,3 @@ Je suis **activement à la recherche** d'une entreprise pour continuer ma format
 *Dernier update: Février 2026*
 
 </div>
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderahmane-blue?logo=linkedin)](https://linkedin.com/in/abderahmanechaouche)
