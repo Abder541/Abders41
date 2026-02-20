@@ -252,3 +252,7 @@ Je suis **activement à la recherche** d'une entreprise pour continuer ma format
 *Dernier update: Février 2026*
 
 </div>
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderahmane-blue?logo=linkedin)](https://linkedin.com/in/abderahmanechaouche)
